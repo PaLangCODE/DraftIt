@@ -37,7 +37,7 @@ cd DraftIt
 docker-compose up
 ```
 
-<strong>You can use the default email and password for your first login `captain@plane.so` and `password123`.</strong> 
+<!-- <strong>You can use the default email and password for your first login `captain@plane.so` and `password123`.</strong>  -->
 
 ## 🚀 Features
 
