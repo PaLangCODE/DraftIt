@@ -1,13 +1,6 @@
 <br /><br />
 
-<p align="center">
-<a href="https://plane.so">
-  <img src="https://res.cloudinary.com/toolspacedev/image/upload/v1680596414/Plane/Plane_Icon_Blue_on_White_150x150_muysa3.jpg" alt="Plane Logo" width="70">
-</a>
-</p>
-
-<h3 align="center"><b>Plane</b></h3>
-<p align="center"><b>Open-source, self-hosted project planning tool</b></p>
+<h3 align="center"><b>DraftIT. Draft securely.</b></h3>
 
 <p align="center">
 <a href="https://discord.com/invite/A92xrEGCge">
