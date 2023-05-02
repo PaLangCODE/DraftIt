@@ -7,7 +7,7 @@ import Image from "next/image";
 import DefaultLayout from "layouts/default-layout";
 import { UserAuthorizationLayout } from "layouts/auth-layout/user-authorization-wrapper";
 // images
-import Logo from "public/onboarding/logo.svg";
+import Logo from "public/onboarding/logo4.svg";
 // types
 import type { NextPage } from "next";
 // constants
@@ -27,7 +27,7 @@ const CreateWorkspace: NextPage = () => {
         <div className="grid h-full place-items-center p-5">
           <div className="w-full space-y-4">
             <div className="mb-8 text-center">
-              <Image src={Logo} height="50" alt="Plane Logo" />
+              <Image src={Logo} height="50" alt="DraftIT Logo" />
             </div>
             <CreateWorkspaceForm
               defaultValues={defaultValues}

@@ -19,7 +19,7 @@ import { PrimaryButton } from "components/ui";
 // constant
 import { ONBOARDING_CARDS } from "constants/workspace";
 // images
-import Logo from "public/onboarding/logo.svg";
+import Logo from "public/onboarding/logo4.svg";
 // types
 import type { NextPage } from "next";
 import { ICurrentUserResponse } from "types";
@@ -43,7 +43,7 @@ const Onboarding: NextPage = () => {
           {step <= 3 ? (
             <div className="w-full">
               <div className="text-center mb-8">
-                {/* <Image src={Logo} height="50" alt="DraftIT Logo" /> */}
+                <Image src={Logo} height="50" alt="DraftIT Logo" />
               </div>
               {step === 1 ? (
                 <UserDetails user={user} setStep={setStep} setUserRole={setUserRole} />
